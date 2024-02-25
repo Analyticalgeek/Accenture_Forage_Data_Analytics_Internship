@@ -1,4 +1,4 @@
-# Accenture Data Analytics and Visualization Internship Journey
+# Accenture Data Analytics and Visualization Internship Journey through Forage
 
 ## Project Overview
 Welcome to my Accenture Data Analytics and Visualization Internship project! I'm thrilled to share my journey of working on a project for our **client - Social Buzz**, a dynamic social media and content creation platform. Throughout this internship, I've had the exciting opportunity to analyze our client's content performance and provide valuable insights based on data analysis.
